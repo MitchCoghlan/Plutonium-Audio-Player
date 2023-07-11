@@ -1,3 +1,7 @@
+# Made by Mitch Coghlan
+# Bugs might be present
+
+
 from tkinter import *
 from tkinter import filedialog
 import pygame
