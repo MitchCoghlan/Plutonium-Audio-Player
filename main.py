@@ -1,6 +1,8 @@
 # Made by Mitch Coghlan
 # Bugs might be present
 
+# NOTE: REQUIRES PYGAME TO BE INSTALLED
+
 
 from tkinter import *
 from tkinter import filedialog
